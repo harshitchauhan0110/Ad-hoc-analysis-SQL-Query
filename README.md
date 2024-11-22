@@ -1,7 +1,7 @@
-## **Financial Analysis**
-# **Task** :-
+# **Financial Analysis**
+## **Task** :-
 
-# Description
+## Description
 **As a Product owner, I want to generate a report of individual product sales (aggregated
 on a monthly basis at the product level) for Chroma India Customer for FY = 2021 so
 that I can track individual product sales and run further product analysis on it in excel.
@@ -154,9 +154,9 @@ set out_badge = "Silver";
 END
 ```
 
-## Market Analysis
+# Market Analysis
 
-# Query
+## Query
 
 **1. View for Gross Sales?**
 ```sql
